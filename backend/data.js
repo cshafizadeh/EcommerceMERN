@@ -27,8 +27,8 @@ const data = {
   products: [
     {
       //_id: '1',
-      name: 'Nike Slim Shirt',
-      slug: 'nike-slim-shirt',
+      name: 'Mens Grey Button Down Shirt',
+      slug: 'grey-button-down-shirt',
       category: 'shirts',
       image: '/images/p1.jpeg',
       price: 120,
@@ -40,12 +40,12 @@ const data = {
     },
     {
       // _id: '2',
-      name: 'Adidas Fit Shirt',
-      slug: 'adidas-fit-shirt',
+      name: 'Mens grey dress shirt',
+      slug: 'grey-dress-shirt',
       category: 'shirts',
       image: '/images/p2.jpeg',
       price: 250,
-      countInStock: 20,
+      countInStock: 0,
       brand: 'Adidas',
       rating: 4.0,
       numReviews: 10,
@@ -53,8 +53,8 @@ const data = {
     },
     {
       // _id: '3',
-      name: 'Nike Slim Pants',
-      slug: 'nike-slim-pants',
+      name: 'Mens Charcoal Dress Pants',
+      slug: 'charcoal-dress-pants',
       category: 'pants',
       image: '/images/p3.jpeg',
       price: 25,
@@ -66,8 +66,8 @@ const data = {
     },
     {
       // _id: '4',
-      name: 'Adidas Fit Pants',
-      slug: 'adidas-fit-pants',
+      name: 'Grey Dress Pants',
+      slug: 'grey-dress-pants',
       category: 'pants',
       image: '/images/p4.jpeg',
       price: 65,
