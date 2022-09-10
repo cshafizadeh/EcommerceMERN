@@ -1,2 +1,2 @@
 # EcommerceMERN
-Frontend code on 'Frontend' branch.
+Frontend code on 'master' branch.
